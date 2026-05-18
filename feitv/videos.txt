@@ -1,0 +1,5 @@
+1|Pretendente Surpresa|Romance|2024|Uma jovem se inscreve em um programa de TV para encontrar o amor verdadeiro.
+2|Vincenzo|Suspense|2021|Um advogado mafioso italiano-coreano retorna à Coreia e enfrenta uma corporação corrupta.
+3|Startup|Drama|2020|Jovens empreendedores lutam para construir suas empresas no mundo das startups sul-coreanas.
+4|O Jogo da Imitação|Guerra|2015|Um matemático brilhante lidera uma equipe secreta para decifrar os códigos nazistas na Segunda Guerra.
+5|Holo Meu Amor|Romance|2020|Uma jovem desenvolvedora se apaixona por um holograma de inteligência artificial.
